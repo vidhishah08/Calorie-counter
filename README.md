@@ -1,1 +1,1 @@
-# Calorie-counter
+# This project is a calorie counter that helps users track their daily calorie intake and expenditure. It allows adding entries for meals and exercises, calculates remaining calories based on a set budget, and displays a summary of consumed calories, burned calories, and remaining calories, indicating a surplus or deficit.
